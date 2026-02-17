@@ -75,5 +75,6 @@ For this, we have determined few guidelines, which we obviously call **"Best pra
 ## Maintainers
 These best practices are maintained by [Henki Robotics](https://henkirobotics.com/).
 
+Read a blog post where we highlight some of these best practices and explain how to enforce them in projects: [ROS 2 Best Practices - Henki Robotics](https://henkirobotics.com/ros-2-best-practices/)
 
 [<img src="henki_robotics_logo.png" alt="Henki Robotics Logo" width="200" height="190"/>](https://henkirobotics.com/)
